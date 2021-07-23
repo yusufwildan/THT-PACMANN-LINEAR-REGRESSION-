@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 21 23:41:37 2021
 
-@author: My Laptop
-"""
 import model
 import numpy as np
 
