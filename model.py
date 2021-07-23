@@ -62,5 +62,6 @@ class LinearReg:
       data_y2 = [0 for i in range (0,n)]
       for i in range (0,n):
         data_y2[i] = self.coef*data_x2[i] + self.intercept
-        print (data_y2[i])
+        K = print (data_y2[i])
+      return K
       
